@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "chart.js": "^3.9.1",
+    "live-server": "^1.2.2"
+  },
+  "type": "module",
+  "name": "chart",
+  "version": "1.0.0",
+  "description": "this is my first project with charts and algorithms",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParsaPMM/Chart.js-and-algorithms-times.git"
+  },
+  "author": "Parsa Moshirpoor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ParsaPMM/Chart.js-and-algorithms-times/issues"
+  },
+  "homepage": "https://github.com/ParsaPMM/Chart.js-and-algorithms-times#readme"
+}

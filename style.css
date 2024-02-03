@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: blanchedalmond;
+}
+div.chartDiv{
+    width: 80%;
+    margin: 50px auto;
+
+}
+canvas#myChart{
+
+}
+section.inputSection{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+    padding-top: 50px;
+}
+section.inputSection>section{
+    width: 85%;
+    display: flex;
+    justify-content: center;
+    background-color: darkslategray;
+    border-radius: 5px;
+}
+section.inputSection>section>input{
+    margin: 10px;
+    box-sizing: border-box;
+    padding: 5px;
+    border: 0;
+    border-radius: 5px;
+
+}

@@ -1,0 +1,11 @@
+   // x1 = BinarySearch
+    let x1 = await binarySearchTime(randomAllList);
+    // x2 = MergSort
+    let x2 = Number(pushValue.value)*3;
+    // x3 = QuickSort
+    let x3 = Number(pushValue.value)*4;
+    // x4 = BubbleSort
+    let x4 = Number(pushValue.value)*5;
+
+    Hello from the other side
+    Hello Hello Hello
